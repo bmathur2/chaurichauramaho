@@ -1,0 +1,13 @@
+Domain: chaurichauramahotsav.in
+| UserName: chaurichauramaho
+| PassWord: 6E~3{z=CeIiw
+
+link http://45.43.14.140/cpanel
+
+admin
+http://chaurichauramahotsav.in/wordpress/wp-admin
+admin_8xmmlvgn / s3WkN5_$c0?4n6&y
+
+databse info
+DB : chaurichauramaho_wp_iifj1
+User / pass : chaurichauramaho_wp_ktwli / RRQm&wY6K5y3Uk&n
